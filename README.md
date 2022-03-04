@@ -19,4 +19,12 @@ Google book search is an application to search books via google books api and sa
 ## deployed link
 https://still-brook-85949.herokuapp.com/
 
+## Demo
+* Not Logged in
+![Not_logged_In](client/src/assets/Google_Book_Search.gif)
+* Logged in
+![Logged_In](client/src/assets/Google_Book_Search_loggedIn.gif)
 
+## License
+MIT License
+Copyright (c) 2022 Grace Liu
