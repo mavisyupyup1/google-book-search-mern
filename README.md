@@ -1,7 +1,7 @@
 # Google Book Search
 
 ## Description
-Google book search is an application to search books via google books api and save/remove books from their account. This MERN application is powered by REACT.js, MongoDB, Graphql, Express.js and Node.js.
+Google book search is a single page application (SPA) to search books via google books api and save/remove books from their account. This MERN application is powered by REACT.js, MongoDB, Graphql, Express.js and Node.js.
 
 ## Built with
 * Node.js
