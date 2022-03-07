@@ -11,6 +11,7 @@ Google book search is a single page application (SPA) to search books via google
 * Bcrypt
 * REACT.js
 * GraphQL
+
 ## Installation 
 * Download or clone the repo
 * Node.js framework and MONGO_DB is required to run the application
